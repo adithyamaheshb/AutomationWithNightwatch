@@ -1,0 +1,22 @@
+{
+  "name": "automationwithnightwatch",
+  "version": "1.0.0",
+  "description": "Learning nightwatch.js and trying to implement tests",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adithyamahesh596/AutomationWithNightwatch.git"
+  },
+  "author": "Adithya Mahesh Bariki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adithyamahesh596/AutomationWithNightwatch/issues"
+  },
+  "homepage": "https://github.com/adithyamahesh596/AutomationWithNightwatch#readme",
+  "dependencies": {
+    "nightwatch": "^0.9.20"
+  }
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="artsyjewels.testcase2"
+    errors="1" failures="0" hostname="" id="" package="artsyjewels" skipped="0"
+    tests="1" time="0.007000" timestamp="Wed, 21 Mar 2018 03:51:35 GMT">
+  
+    <testcase name="Search functionality should be working" classname="artsyjewels.testcase2" time="0.007000" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Artsyjewels / Testcase2 / Search functionality should be working]:
+
+  ReferenceError: browser is not defined
+    at Object.Search functionality should be working (C:\Users\AdithyaMaheshBariki\Desktop\Interview\AutomationWithNightwatch\tests\artsyjewels\testcase2.js:7:159)
+    at Module.call (C:\Users\AdithyaMaheshBariki\Desktop\Interview\AutomationWithNightwatch\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\AdithyaMaheshBariki\Desktop\Interview\AutomationWithNightwatch\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\AdithyaMaheshBariki\Desktop\Interview\AutomationWithNightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\AdithyaMaheshBariki\Desktop\Interview\AutomationWithNightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\AdithyaMaheshBariki\Desktop\Interview\AutomationWithNightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\AdithyaMaheshBariki\Desktop\Interview\AutomationWithNightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\AdithyaMaheshBariki\Desktop\Interview\AutomationWithNightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\AdithyaMaheshBariki\Desktop\Interview\AutomationWithNightwatch\node_modules\q\q.js:125:13)
+    at process._tickCallback (internal/process/next_tick.js:150:11)
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>
