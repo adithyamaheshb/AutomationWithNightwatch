@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/adithyamahesh596/AutomationWithNightwatch#readme",
   "dependencies": {
-    "nightwatch": "^0.9.20"
+    "nightwatch": "^2.6.9"
   }
 }
